@@ -1,0 +1,7 @@
+com.football.team.nice
+com.football.team.nice.controller
+com.football.team.nice.exception
+com.football.team.nice.model
+com.football.team.nice.repository
+com.football.team.nice.security
+com.football.team.nice.util

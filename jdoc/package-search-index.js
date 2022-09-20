@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.football.team.nice"},{"l":"com.football.team.nice.controller"},{"l":"com.football.team.nice.exception"},{"l":"com.football.team.nice.model"},{"l":"com.football.team.nice.repository"},{"l":"com.football.team.nice.security"},{"l":"com.football.team.nice.util"}];updateSearchResults();
